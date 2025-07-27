@@ -1,0 +1,1 @@
+Este es el challenge de Alura Latam en el cual se realizó un análisis de cuatro tiendas para determinar cuál es la que se debería vender. Para esto se tomaron en cuenta las categorías de ingresos totales, valoración media, y promedio del precio de envíos.
